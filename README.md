@@ -1,5 +1,5 @@
 # Arabic-Language-Twitter-Sentiment-Analysis
-**Arabic Language: Twitter Sentiment Analysis (TFIDF) **
+**Arabic Language: Twitter Sentiment Analysis (TFIDF)**
 - Features Extraction from tweets text with TFIDF unigram.
 - encoding class as 1 for Postive class and 0 for negative class.
 - Spliting Dataset into 70% Training and 30% Testing.
